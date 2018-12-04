@@ -1,0 +1,9 @@
+{
+  "name": "do-from",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "do-utils": "^1.0.0"
+  }
+}
